@@ -3,12 +3,11 @@ Tomcat Server Version : Tomcat v10.1
 jar files :
  mysql-connector-java-8.0.11.jar
  jstl-1.2.jar
- javax.servlet.jsp.jstl-api-1.2.2.jar
- javax.servlet.jsp-api-2.3.3.jar
  jakarta.xml.bind-api-3.0.0.jar
  jakarta.servlet.jsp.jstl-2.0.0.jar
  jakarta.servlet.jsp-api-3.0.0.jar
  jakarta.servlet-api-5.0.0.jar
  jakarta.el-api-4.0.0.jar
  jakarta.activation-2.0.0.jar
+
 
